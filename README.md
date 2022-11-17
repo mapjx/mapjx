@@ -8,4 +8,4 @@
 - ⚡ Datos curiosos: me encanta escuchar música de los 80's y jugar videojuegos shooter con mis colegas del clan.
 
 ### Programas y heramientas con las que trabajo
-[<img align="left" alt="Мистер Макс | Twitter" width="28px" src="[https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media](https://www.flaticon.es/icono-gratis/gorjeo_3670151?term=twitter&page=1&position=3&page=1&position=3&related_id=3670151&origin=tag)" />][twitter]
+[<img align="left" alt="Мистер Макс | Twitter" width="28px" src="https://www.flaticon.es/icono-gratis/gorjeo_3670151?term=twitter&page=1&position=3&page=1&position=3&related_id=3670151&origin=tag" />][twitter]
