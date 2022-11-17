@@ -13,7 +13,6 @@
 [<img align="left" alt=“Java” width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />]
 
 <br />
-<br />
 
 ### Programas y heramientas con las que trabajo
 
