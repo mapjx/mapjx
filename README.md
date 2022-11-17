@@ -7,6 +7,14 @@
 - 🗿  Soy una persona curiosa es por eso que me mantengo actualizado sobre la tecnología
 - ⚡ Datos curiosos: me encanta escuchar música de los 80's y jugar videojuegos shooter con mis colegas del clan.
 
+
+### Lenguajes de programación
+[<img align="left" alt=“Phyton” width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />]
+[<img align="left" alt=“Java” width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />]
+
+<br />
+<br />
+
 ### Programas y heramientas con las que trabajo
 
 [<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.icon-icons.com/icons2/478/PNG/512/sublime-text_47006.png?alt=media" />]
