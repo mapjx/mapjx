@@ -3,6 +3,6 @@
 
 - 🔭 &ensp;¡Actualmente estoy viendo y aprendiendo algunas tecnología en [**Youtube**][youtube]!
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web y Python ❤️ 
-- 👯 Estoy buscando a otras personas para trabajar en proyectos en que les pueda colaborar
-- 🗿  Soy una persona curiosa es por eso que me mantengo informado sobre la actualiza de la tecnología
+- 👯 Estoy buscando a otras personas para trabajar en proyectos en lo que les pueda colaborar
+- 🗿  Soy una persona curiosa es por eso que me mantengo actualizado sobre la tecnología
 - ⚡ Datos curiosos: me encanta escuchar música de los 80's y jugar videojuegos shooter con mis colegas del clan 
