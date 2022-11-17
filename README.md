@@ -12,10 +12,7 @@
 [<img align="left" alt=“Phyton” width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />]
 [<img align="left" alt=“Java” width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />]
 
-<br />
-
 ### Programas y heramientas con las que trabajo
-
 [<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.icon-icons.com/icons2/478/PNG/512/sublime-text_47006.png?alt=media" />]
 [<img align="left" alt="Visual Studio Code" width="28px" src="https://e1.pngegg.com/pngimages/119/386/png-clipart-clay-os-6-a-macos-icon-intellij-idea-ij-logo.png?alt=media" />]
 [<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png?alt=media" />]
