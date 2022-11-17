@@ -9,4 +9,4 @@
 
 ### Programas y heramientas con las que trabajo
 
-[<img align="left" alt="Мистер Макс | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png?alt=media" />]
+[<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png?alt=media" />]
