@@ -9,4 +9,4 @@
 
 ### Programas y heramientas con las que trabajo
 
-[<img align="left" alt="Мистер Макс | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png?alt=media />][twitter]
+[<img align="left" alt="Мистер Макс | Twitter" width="28px" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png?alt=media" />][twitter]
