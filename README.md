@@ -12,9 +12,9 @@
 
 ### Lenguajes de programación
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 ### Programas y heramientas con las que trabajo
-[<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.icon-icons.com/icons2/478/PNG/512/sublime-text_47006.png?alt=media" />]
-[<img align="left" alt="Visual Studio Code" width="28px" src="https://e1.pngegg.com/pngimages/119/386/png-clipart-clay-os-6-a-macos-icon-intellij-idea-ij-logo.png?alt=media" />]
-[<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png?alt=media" />]
+<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/478/PNG/512/sublime-text_47006.png" alt="sublimetext" width="40" height="40"/>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://e1.pngegg.com/pngimages/119/386/png-clipart-clay-os-6-a-macos-icon-intellij-idea-ij-logo.png" alt="intellijidea" width="40" height="40"/>
+<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/>
