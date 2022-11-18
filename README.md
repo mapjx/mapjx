@@ -12,8 +12,7 @@
 
 ### Lenguajes de programación
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-[<img align="left" alt=“Phyton” width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />]
-[<img align="left" alt=“Java” width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />]
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
 ### Programas y heramientas con las que trabajo
 [<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.icon-icons.com/icons2/478/PNG/512/sublime-text_47006.png?alt=media" />]
