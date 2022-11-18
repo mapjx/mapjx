@@ -11,6 +11,7 @@
 [<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Мистер Макс esta escuchando en Spotify" width="350" />](https://open.spotify.com/user/22xlpwqlkqs37mbz3pzdibucy)
 
 ### Lenguajes de programación
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 [<img align="left" alt=“Phyton” width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />]
 [<img align="left" alt=“Java” width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />]
 
