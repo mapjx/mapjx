@@ -7,6 +7,8 @@
 - 🗿  Soy una persona curiosa es por eso que me mantengo actualizado sobre la tecnología
 - ⚡ Datos curiosos: me encanta escuchar música de los 80's y jugar videojuegos shooter con mis colegas del clan.
 
+### Escuchando en Spotify 🎧
+[<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Мистер Макс esta escuchando en Spotify" width="350" />](https://open.spotify.com/user/22xlpwqlkqs37mbz3pzdibucy)
 
 ### Lenguajes de programación
 [<img align="left" alt=“Phyton” width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />]
