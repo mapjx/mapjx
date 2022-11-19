@@ -18,7 +18,7 @@
 
 ### Programas y heramientas con las que trabajo
 <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/478/PNG/512/sublime-text_47006.png" alt="sublimetext" width="40" height="40"/>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://e1.pngegg.com/pngimages/119/386/png-clipart-clay-os-6-a-macos-icon-intellij-idea-ij-logo.png" alt="intellijidea" width="40" height="40"/>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="intellijidea" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/>
 <a href="https://www.adobe.com/la/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
 <a href="https://www.adobe.com/la/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/>
