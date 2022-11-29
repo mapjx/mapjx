@@ -1,7 +1,7 @@
-<h1 align="center"> Hola... 👋, Mi nombre es: <a href="https://github.com/mapjx">Máximo Paute 🙂</a></h1>
+<h1 align="center"> Hola... 👋, Mi nombre es: <a href="https://github.com/mapjx">Max 🙂</a></h1>
 <h3 align="center">Estoy aprendiendo de todo un poco sobre este gigantesco mundo de la tecnología 😜</h3>
 
-- 🔭 &ensp;¡Actualmente estoy viendo y aprendiendo algunas tecnología en [**Youtube**]
+- 🔭 &ensp;¡Actualmente estoy viendo y aprendiendo algunas tecnología en Youtube
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web y Python ❤️ 
 - 👯 Estoy buscando a otras personas para trabajar en proyectos en lo que les pueda colaborar
 - 🗿  Soy una persona curiosa es por eso que me mantengo actualizado sobre la tecnología
@@ -13,7 +13,7 @@
 ### Lenguajes de programación
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.clipartmax.com/png/middle/150-1504620_javascript-logo.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 ### Programas y heramientas con las que trabajo
