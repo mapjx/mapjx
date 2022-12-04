@@ -1,22 +1,22 @@
-<h1 align="center"> Hola... 👋, Mi nombre es: <a href="https://github.com/mapjx">Max 🙂</a></h1>
-<h3 align="center">Estoy aprendiendo de todo un poco sobre este gigantesco mundo de la tecnología 😜</h3>
+<h1 align="center"> Hi... 👋, My name is: <a href="https://github.com/mapjx">Max 🙂</a></h1>
+<h3 align="center">I am learning a bit about everything about this gigantic world of technology 👨‍💻</h3>
 
-- 🔭 &ensp;¡Actualmente estoy viendo y aprendiendo algunas tecnología en Youtube
-- 🌱 Actualmente estoy aprendiendo Desarrollo Web y Python ❤️ 
-- 👯 Estoy buscando a otras personas para trabajar en proyectos en lo que les pueda colaborar
-- 🗿  Soy una persona curiosa es por eso que me mantengo actualizado sobre la tecnología
-- ⚡ Datos curiosos: me encanta escuchar música de los 80's y jugar videojuegos shooter con mis colegas del clan.
+- 🔭 &ensp;¡I am currently watching and learning some technology on Youtube 
+- 🌱 I am currently learning Web Development and Python 👨‍💻
+- 👯 I am looking for other people to work on projects in which I can collaborate 🤝
+- 🗿 I'm a curious person that's why I'm up to date on technology 🧑‍💻
+- ⚡ Fun facts: I love listening to 80's music and playing shooter games with my clan mates. 📻🖥
 
-### Escuchando en Spotify 🎧
+### Listening on Spotify 🎧
 [<img src="https://spotifynowplaying.vercel.app/api/spotify-playing" alt="Мистер Макс esta escuchando en Spotify" width="350" />](https://open.spotify.com/user/22xlpwqlkqs37mbz3pzdibucy)
 
-### Lenguajes de programación
+### Programming languages
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="30" height="30"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-### Programas y heramientas con las que trabajo
+### Programs and tools I work with
 <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/478/PNG/512/sublime-text_47006.png" alt="sublimetext" width="40" height="40"/>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png" alt="intellijidea" width="40" height="40"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" width="40" height="40"/>
